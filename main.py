@@ -37,4 +37,3 @@ customer1.place_order("Lidl", "Apples")
 customer2.place_order("Lidl", "Bananas")
 
 store.handle_order()
-
